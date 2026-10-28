@@ -4,7 +4,7 @@ An AI-powered travel planning app built with **Streamlit**. Tell it your vibe, b
 
 > Skill Wallet Capstone Project 4
 
-🔗 **Live demo:** _add your Streamlit app link here_
+🔗 **Live demo:** > 🔗 **Live Demo:** [Personalized Travel Itinerary Planner](https://travel-planner-aqfkakstcxwzrus6llebgt.streamlit.app)
 
 ---
 
